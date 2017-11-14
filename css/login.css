@@ -1,0 +1,66 @@
+body {
+  color: white;
+  background-color: #272B30;
+  font-family: 'Open Sans', sans-serif;
+}
+
+i {
+  margin-right: 12%;
+}
+
+.loginContainer {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 25%;
+}
+
+.subLoginContainer {
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 2%;
+}
+
+
+.bottomMarginSmall {
+  margin-bottom: 2%;
+}
+
+.bottomMarginBig {
+  margin-bottom: 5%;
+}
+
+.basicLoginInput {
+  width:100%
+}
+
+.smallHr {
+  margin-top:2px;
+}
+
+.wideBoi {
+  width:50%;
+}
+
+.btn {
+  border-color: #0E7C78;
+}
+
+.btn-primary {
+  background-color: #0E7C78;
+}
+
+.noRightRadius {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.noLeftRadius {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.title {
+  text-align: center;
+  padding-top: 20%;
+  margin-bottom: -20%;
+}

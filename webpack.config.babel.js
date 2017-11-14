@@ -21,5 +21,9 @@ module.exports = {
     stats: {
         colors: true
     },
-    devtool: 'source-map'
+    devtool: 'source-map',
+    resolve: {
+      modules: [path.resolve(__dirname, 'app'), 'node_modules'],
+      extensions: ['.js']
+    }
 };
